@@ -1,7 +1,12 @@
 
 body{background:#B2D8F3;}
 
-
+a{
+text-decoration: none; color: black;
+}
+a:hover {
+  background: #A3A1DD;
+}
 	
 .container {
 	width: 1000px;
