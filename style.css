@@ -1,0 +1,16 @@
+
+body{background:#B2D8F3;}
+
+
+	
+.container {
+	width: 1000px;
+	margin:0 auto;
+	background: white;
+	padding: 20px;
+	border: 30px dashed #ACC4F0;
+	letter-spacing: 0.5px;
+font-size:25px;
+}
+
+h1{font-family: georgia}
