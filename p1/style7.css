@@ -1,0 +1,27 @@
+
+
+
+.container {
+	width: 800px;
+	margin:0 auto;
+	padding: 100px;
+	border: 400px solid green;
+	position: fixed;
+	font-style:cursive;
+	font-size:30px;
+	text-align:center;
+	letter-spacing:80px;
+}
+
+.content {
+
+	width: 1000px;
+	margin:0 auto;
+	background: white;
+	padding: 20px;
+	border: 20px dashed #ACC4F0;
+	letter-spacing: 0.5px;
+font-size:25px;
+position: relative;
+  text-align: center;
+}

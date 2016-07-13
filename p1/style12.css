@@ -1,0 +1,29 @@
+.container {
+color: black;
+font-size: 50px;
+letter-spacing: 10px;
+  text-align: center;
+}
+
+
+body {
+  background-color:pink ;
+}
+
+
+.content {
+
+	width: 500px;
+	margin:0 auto;
+	background: white;
+	letter-spacing: 0.5px;
+font-size:25px;
+position: relative;
+  text-align: center;
+}
+
+
+.text {
+border-radius:3px;
+    padding-left:3px;
+}
