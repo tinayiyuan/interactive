@@ -1,0 +1,20 @@
+<marquee  style="width:300px; height:32px;" align="left" behavior="scroll"  direction="up" loop="-1" onMouseOut="start()" onMouseOver="stop()" scrollamount="1" scrolldelay="100">
+			<ul class="fl" id="scroll-ul" style="" >
+				<li>
+					<span>[2015-04-24]</span>
+					<a href="">热点1</a>
+				</li>
+				<li>
+					<span>[2015-04-24]</span>
+					<a href="">热点2</a>
+				</li>
+				<li>
+					<span>[2015-04-24]</span>
+					<a href="">热点3</a>
+				</li>
+				<li>
+					<span>[2015-04-24]</span>
+					<a href="">热点4</a>
+				</li>
+			</ul>
+		</marquee>
