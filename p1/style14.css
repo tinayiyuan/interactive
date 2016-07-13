@@ -1,0 +1,19 @@
+.container {
+color: red;
+font-size: 1px;
+letter-spacing: 1px;
+  text-align: bottom;
+  background-color: grey;position: absolute;
+}
+
+.content {
+
+	width: 500px;
+	margin:0 auto;
+	background: white;
+	letter-spacing: 0.5px;
+font-size:25px;
+position: absolute;
+  text-align: right;
+}
+
