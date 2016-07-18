@@ -1,0 +1,21 @@
+body { background: black; }
+
+@media screen and (max-width: 1024px) {
+  body {   	background: url('grey1.jpg;'); }
+}
+
+@media screen and (max-width: 768px) {
+  body { background: url('grey2.jpg;');}
+}
+
+@media screen and (max-width: 600px) {
+  body { background: url('grey3.jpg;'); }
+}
+
+@media screen and (max-width: 480px) {
+  body { background: url('grey4.jpg;'); }
+}
+
+@media screen and (max-width: 320px) {
+  body { background: url('grey5.jpg;'); }
+}

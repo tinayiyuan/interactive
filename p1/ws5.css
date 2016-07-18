@@ -1,0 +1,22 @@
+body { 
+	background:black; }
+
+@media screen and (max-width: 1024px) {
+  body { background:grey; }
+}
+
+@media screen and (max-width: 768px) {
+  body { background: yellow; }
+}
+
+@media screen and (max-width: 600px) {
+  body { background: lime; }
+}
+
+@media screen and (max-width: 480px) {
+  body { background: cyan; }
+}
+
+@media screen and (max-width: 320px) {
+  body { background: magenta; }
+}
