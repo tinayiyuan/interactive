@@ -13,7 +13,7 @@ body { background: black; }
 }
 
 @media screen and (max-width: 480px) {
-  body { background: url('grey4.jpg;'); }
+  body { background: url('grey4.gif;'); }
 }
 
 @media screen and (max-width: 320px) {
