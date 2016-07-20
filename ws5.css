@@ -1,62 +1,21 @@
-body {
-	background: black;
-	color: white;
-	font-size: 24px;
-}
-
-.star {
-	width: 500px;
-	height: 500px;
-	background: url('grey1.jpg');
-}
-
-
-/* Media Queries */
+body { background: black; }
 
 @media screen and (max-width: 1024px) {
-
-  .one {
-  	display: none;
-  }
-
-  .star {
-  	background: url('grey2.jpg');
-  }
-
+  body {   	background: url('grey1.jpg'); }
 }
 
 @media screen and (max-width: 768px) {
-
-  .two {
-  	display: none;
-  }
-
-  .horse {
-  	background: url('grey3.jpg');
-  }
-
+  body { background: url('grey2.jpg');}
 }
 
 @media screen and (max-width: 600px) {
-
-  .three {
-  	display: none;
-  }
-
-  .horse {
-  	background: url('grey4.gif');
-  }
-
+  body { background: url('grey3.jpg'); }
 }
 
 @media screen and (max-width: 480px) {
-  
-  .four {
-  	display: none;
-  }
+  body { background: url('grey4.gif'); }
+}
 
-  .horse {
-  	background: url('grey5.jpg');
-  }
-
+@media screen and (max-width: 320px) {
+  body { background: url('grey5.jpg'); }
 }
