@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+}
+
+body {
+	background: white;
+	font-size: 16px;
+  font-family: "Arial Rounded MT Bold", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+
+}
+
+a{
+text-decoration: none; color: black;
+}
+
+.box1, .box3, .box5,{
+float:left;
+position:relative;
+background-color: pink;
+width: 30%;
+height:18%;
+}
+
+
+
+.box2, .box4, .box6, .box8{
+float:center;
+width:100%;
+height:18%;
+position:relative;
+background-color: pink;
+
+}
+
+
+
+
+.box9, .box10{
+float:center;
+width:100%;
+height:30%;
+position:relative;
+
+}
+
+.box9 {
+
+   background: url('9.png')no-repeat;
+}
+.box10 {
+
+   background: url('10.png')no-repeat;
+}
+
+
+
+
+.box11 {
+float:left;
+width:100%;
+height:25%;
+position:absolute;
+padding:10px;
+
+}
+
+
+
